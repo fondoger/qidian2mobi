@@ -20,7 +20,7 @@ python3 qidian.py
 qidian2mobi$ bin/kindlegen book.epub
 ```
 
-# kindle 截图
+## kindle 截图
 
 ![电子书目录](https://github.com/fondoger/qidian2mobi/raw/master/screenshots/screenshot2.png)
 
