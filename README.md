@@ -1,0 +1,2 @@
+# qidian2mobi
+本工具将起点中文网的免费小说生成epub电子书或者方便kindle阅读的mobi电子书。
